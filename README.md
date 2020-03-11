@@ -9,7 +9,7 @@ Both system1.c and system2.c use data memory address traces as input, which were
 Instructions to run the programs with gcc on the SFSU Unixlab server is included in the header of each file, and they both have verbose mode, enabled by running them with the -v argv parameter. It has not been tested, but they should run on any system with gcc installed, if the trace files are provided as input.
 
 ## Trace files
-Found here, https://www.cis.upenn.edu/~milom/cis501-Fall12/traces/trace-format.html, all credit the involved instructors and University of Pennsylvania. I recommend trying gcc-1K.trace.gz. 
+Found here, https://www.cis.upenn.edu/~milom/cis501-Fall12/traces/trace-format.html, all credit to the involved instructors and University of Pennsylvania. I recommend trying gcc-1K.trace.gz. 
 
 ## How to run
 See the instructions in the header of each file - the same method could be applied with the longer traces files found at the link above. 
