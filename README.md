@@ -12,4 +12,4 @@ Instructions to run the programs with gcc on the SFSU Unixlab server is included
 Found here, https://www.cis.upenn.edu/~milom/cis501-Fall12/traces/trace-format.html, all credit to the involved instructors and University of Pennsylvania. I recommend trying gcc-1K.trace.gz. 
 
 ## How to run
-See the instructions in the header of each file - the same method could be applied with the longer traces files found at the link above. 
+See the instructions in the header of each file - the same method could be applied with the longer trace files found at the link above. 
