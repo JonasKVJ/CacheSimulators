@@ -1,5 +1,5 @@
 # CacheSimulators
-Attempts at writing direct-mapped and k-way set associate data caches simulators in C, as part of the Computer Organization elective class at SFSU.  
+Attempts at writing direct-mapped and k-way set associative data caches simulators in C, as part of the Computer Organization elective class at SFSU.  
 
 ## Overview of files:
 1) system1.c, a direct-mapped data cache of either 2KB and 4KB size, as specified by the user
